@@ -1,7 +1,7 @@
 # ADY201m - AI, DS with Python & SQL
 This is an IT subject of FPT University.
 
-**Link course:**
+**Link course:**  
 https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science  
 https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science  
 https://www.coursera.org/learn/sql-data-science   
