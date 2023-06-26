@@ -11,3 +11,5 @@ https://www.coursera.org/learn/open-source-tools-for-data-science?specialization
 https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science   
 https://www.coursera.org/learn/statistics-for-data-science-python     
 https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science  
+
+_**This is my way of doing it, there are many shortcomings, hope everyone understands and comments!**_
